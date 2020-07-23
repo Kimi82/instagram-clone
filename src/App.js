@@ -176,12 +176,8 @@ function App() {
       
 
     
-      <header className="app-header">
 
-        
-       
       
-      </header>
     </div>
   );
 }
